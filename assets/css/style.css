@@ -1,0 +1,8 @@
+body {
+    margin: 20px;
+}
+
+span {
+    border: 1px solid black;
+    height: 200px;
+}
